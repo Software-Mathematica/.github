@@ -4,11 +4,7 @@
   <img src="https://sagex.org/wp-content/uploads/2018/11/wolfram-logo.png" alt="Wolfram Mathematica Interface"/>
 </p>
 
-<p align="center">
-  <a href="https://software-mathematica.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Wolfram_Mathematica-blue?style=for-the-badge&logo=wolfram-mathematica" alt="Get Wolfram Mathematica"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://lauradavisv612.github.io/.github/Software-Mathematica)
 
 ---
 
